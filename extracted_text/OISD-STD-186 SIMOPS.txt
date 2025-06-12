@@ -1,0 +1,66 @@
+OISD -STD-186 
+SIMOPS in E&P industry
+Presented by:
+Milind  Sourabh , SE(P)
+Well Services, HSECATEGORIES OF SIMOPS
+➢ Allowed subject to normal PTW/ procedural controls : 
+In cases where there is no increase in hazards or risk profile by 
+performing the activities simultaneously.
+➢ Restricted : Potential of hazards or risks could be elevated 
+by the SIMOPS, would require restrictions to be imposed and 
+planning for contingencies.
+Allowed at the discretion of SIMOPS controller with more 
+stringent controls over and above work permit.
+➢ Not Permitted : Hazards introduced are contributing 
+towards extreme risk, the activities should not be conducted 
+simultaneously.SIMOPS MANAGEMENT PROCESSWhen the rig is operating inside an installation 
+•oil/ gas processing plant 
+•producing cluster well in the vicinity of the well under drilling/ workover
+•both the facilities shall be defined and considered as a single combined installation .
+Do’s and don’ts, Safety Precautions
+•Roles and responsibilities
+•Accountable (Owner):  Installation Manager  (Rig/Plant)
+•Responsible: Safety Officer 
+•Operations which have to be stopped/ can be continued / require approval for operations
+•Emergency Response Plan
+Approvals
+•The person responsible for SIMOPS shall be the custodian of the SIMOPS document 
+•Custodian to seek approval from the appropriate authority for any deviation/ amendment.
+Some Examples
+•Movement/Skidding of rig in cluster location
+•Drilling/ workover on one well and Activation / wireline job / CTU / Stimulation job on another well in the cluster 
+•Drilling rig/ workover rig operating inside the installation.
+•One well is under production and the rig building is in progress for drilling second well.
+•One or more wells are on production and the drilling/ workover operation is in progress on another well.
+SIMULTANEOUS OPERATIONS INVOLVING DRILLING RIG/ WORKOVER RIGPREPARATORY WORK DURING SIMOPS
+Display charts/ drawings should be available for ready reckoning for all pipelines to and from the 
+cluster location/ installation (identified and tagged) before commencing SIMOPS
+The SIMOPS checklist is to be filled up by company man/ installation manager (Rig) and 
+installation manager (Production) as shown as Annexure G, to ensure that all preparatory works 
+have been completed prior to rig movement.
+All Wells shall be checked for annulus pressure build up and checked for integrity, any repair 
+work should be taken prior to commencement of SIMOPS
+The escape routes of drilling rig/ workover  rig shall be free from any obstruction.
+Hazardous zone classification around cluster wells shall be done as per latest guidelines of 
+DGMS
+The Xmas tree of cluster wells and flow lines/ injection lines shall be protected by means of 
+temporary physical barrier above and around it
+Minimum three 25 Kg DCP trolley mounted fire extinguishers should be placed in the cluster 
+area
+Precautions shall be taken while preparing well programme 
+(well profile) to avoid below surface collision of the well 
+with the neighbouring well otherwise consequences can be 
+serious when the producing well is hit.
+The cluster wells falling in the movement zone during 
+transportation, rig building, rig dismantling of drilling/ work 
+over well site area shall not be permitted to flow. The 
+cluster wells should be permitted to be flown only after 
+taking approval from SIMOPS in charge.
+Around the producing wells in the cluster, presence of gas 
+should be monitored at predefined intervals and records 
+maintained. 
+In case of major leakage of oil/gas at the plinth, the 
+company man/ rig installation manager (Rig), as the case 
+may be, shall stop drilling operation till the leakage is 
+rectified and the well has been brought to the safe 
+condition. PRECAUTIONS TO BE TAKEN DURING SIMOPS
